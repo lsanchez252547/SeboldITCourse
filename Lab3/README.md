@@ -27,4 +27,4 @@ Co-Ops/Internships -- are opportunities for students to get hands-on experience.
 Industry Associations/Student Organizations
 ACM-W -- The Association for Computing Machinery for Women is an organization that provides resources for women in computing. The goal is to bridge that gap that results from gender inequalities in salary and opportunities for career advancement.  I think I would actually like to join this club!
 Conclusion:
-This was an interesting Lab.  I have actually begun to get really excited about the program outcomes that I will experience through hard work and determination. Working full-time and going to school is DIFFICULT, but I want to succeed more than anything so I will not give up no matter how tough things get.
+This was an interesting Lab.  I have actually begun to get really excited about the program outcomes that I will experience through hard work and determination. I was really intrigued by the Python section of this lesson, and really loved actually seeing it work! Working full-time and going to school is DIFFICULT, but I want to succeed more than anything so I will not give up no matter how tough things get.
