@@ -1,6 +1,6 @@
 Executvie Summary
 
-In this unit we explore networks, network types and how they work. 
+In this unit we explore networks, network types and how they work. We also began to take a look into cybersecurity and how important it is to have regular security checks and updates. I always hate reading about things like that because it can make you a little paranoid, but it's best to be informed.
 
 Introduction to Networking
 
@@ -17,6 +17,9 @@ NSA/CSS -- The NSA and CSS analyze signals and does data collection in order to 
 
 Cybersecurity and Encryption
 
-Information Systems Security--
-Cryptography--
-Brute-Force--
+Information Systems Security-- Availibility - Amazon online chats are available 24-7, I believe, so whatever resources are used to make that happen can never be unavailable since Amazon is basically a giant retail outlet. Integrity - the customer service associate would need to be able to do what they say they are going to do for the customer. They also need to enter their information accurately. Confidentiality - since the Amazon associate can no doubt access the customer's sensitive information, they need to not use any of it for their own personal gain.  Logging into my work computer and email is a daily task that takes multi-factor authentication. We use a Duo push that needs to be accepted on your phone, then you can login with username and password. Changing my password is multi-factor, you need to enter the old password first then change it. You also get an email to the registered email account when a password change took place. Anytime someone logs into their online banking, there needs to be a security question asked, and then the person can choose to bypass this on the device they are on. An ACL or Access Control List, determines who can have what privileges. I have read only access to SSMS SQL in production.  In QA environments, I can basically do whatever I need to. The drawback for ACL is that each access is separate, so removing or adding a user is time consuming. 
+RBAC is role based access control, and is administered by role and not function. Ciphertext is information that gets encrypted upon transmission or storage by encrypting software. The sender and receiver need to have the same decoding method in place, or symmetric key encryption. The alternate option is public key encryption, where the public key can be given to anyone who wants to send a message. The recipient then uses their private key to decrypt. Users each need a private and a public key. We need key cryptography because there are always unauthorized parties possibly listening/watching; there needs to be a way to keep the information indecipherable.
+Cryptography-- Are virtual locks that allow users to scramble messages so that interception by an unauthorized user would be harmless because this person would not know how to decrypt. My message after encryption just looks like a bunch of letters in groups, totally illegible unless you had the wheel. The fingertip frequency box counts how many times you hit a key on the keyboard. I think it would be relative to the spoken language, and dependent on the way the words are formed. English words use more consonants than vowels, for example. Polyalphabetic cypher is encrypting things several times over with letter positions in the alphabet; very confusing to me, but once I entered a message into Polyalphabetic Exploration it made more sense. I think the message gets encrypted based on the shift word's letter poistions in the alphabet. So the 1st word in my message is birthday, and my shift word was angel. The first letter in my encryption was c because a (angel) is the first letter of the alphabet, so you shift over one letter = the letter c.
+Brute-Force-- Trying every single possible decryption key until they able to decode the cipher. Kerckhoff's principle operates on the assumption that anyone could intercept a message and interpret it, so the choice of key is what needs to be secret.
+
+Conclusion -- This was a very insightful unit, albeit a little anxiety inducing. It is so important for pretty much everyone on earth to be concerned with internet and network security.
