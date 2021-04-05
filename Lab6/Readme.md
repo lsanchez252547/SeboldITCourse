@@ -8,3 +8,6 @@ Securing your Web Browser -- It is vitally important to secure your web browser 
 
 Internet Programming
 Tim Berners-Lee is the inventor and director of the World Wide Web which is an international community where Members, staff and the public work together to develop web standards. One of the standards that caught my attention is Browsers and Authoring Tools. W3C enables the blending and publishing capabilities for all software and hardware. The thought being that contributors come from all over the globe and can have many different devices/ways to publish.
+HTML and CSS -- <!DOCTYPE html> signifies an html document. Then the elements that you want in you webpage are listed, <head> for heading, <style> to add color or change font. The <h1> and </h1> enclose the heading, <p> and </p> enclose the paragraph, and <a href - </a> enclose the link path. I just wanted to create a colorful, happy site that you can find motivational tools on.
+HTML and XML --  XML does not do anything, it is simply a carrier for data. HTML actually displays data.  XML allows the user to create whatever tags they want to use, they are not defined.  HTML has predefined tags, <p> for paragraph, <h1> for the first heading, etc. XML makes data sharing, platform changes, and upgrades simpler because the data is in plain text.
+  
