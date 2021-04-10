@@ -16,6 +16,3 @@ Uniform Resource Locators are links. The scheme: https, Top level domain: .com, 
 Parameters: no file path provided
 
 Conclusion -- It was really fun to write an html document and have it actually translate into a website, that was by far the best part. My only issue is I could not figure out how to get the image to display on my website, which was disappointing.
-
-
-  
