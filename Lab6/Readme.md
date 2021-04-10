@@ -11,3 +11,8 @@ Tim Berners-Lee is the inventor and director of the World Wide Web which is an i
 HTML and CSS -- <!DOCTYPE html> signifies an html document. Then the elements that you want in you webpage are listed, <head> for heading, <style> to add color or change font. The <h1> and </h1> enclose the heading, <p> and </p> enclose the paragraph, and <a href - </a> enclose the link path. I just wanted to create a colorful, happy site that you can find motivational tools on.
 HTML and XML --  XML does not do anything, it is simply a carrier for data. HTML actually displays data.  XML allows the user to create whatever tags they want to use, they are not defined.  HTML has predefined tags, <p> for paragraph, <h1> for the first heading, etc. XML makes data sharing, platform changes, and upgrades simpler because the data is in plain text.
   
+Components of a URL
+Uniform Resource Locators are links. The scheme: https, Top level domain: .com, .edu, .gov, .org, Anchor: specific location on a page, Default page: result of search
+Parameters: no file path provided
+
+  
