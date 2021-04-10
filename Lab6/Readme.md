@@ -1,4 +1,4 @@
-Executvie Summary --
+Executvie Summary -- In this unit we learn about internet architecture, specfically protocol stacks and suites. We learn about html documents, and how to write one. We also read about the components of a URL and what each of them does.
 
 Internet Architecture
 Internet Protocol -- An IP address is the unique numerical identifier that each device that accesses the internet has. When we send an email or visit websites, you are sending packets of data to the other IP address. IPv4 was the original set of available IP addresses, numbering about 4.3 billion. Since there are about 7 billion people on earth, so we needed to implement IPv6 which has enough addresses to outlast the intial 30 years or so that IPv4 lasted. IPv4 addresses look like strings of numbers in groups of 4 separated by dots, and IPv6 addresses have much longer number strings, so are written using hexadecimals. IPv6 has 128-bit address space, which is 340 undecillion addresses. ICANN distributes IP address blocks to the five Regional Interent Registries or RIRs worldwide, the RIRs then dive out amller address blocks to IPS, and from there the addresses get assigned to individual internet connections.
@@ -14,5 +14,8 @@ HTML and XML --  XML does not do anything, it is simply a carrier for data. HTML
 Components of a URL
 Uniform Resource Locators are links. The scheme: https, Top level domain: .com, .edu, .gov, .org, Anchor: specific location on a page, Default page: result of search
 Parameters: no file path provided
+
+Conclusion -- It was really fun to write an html document and have it actually translate into a website, that was by far the best part. My only issue is I could not figure out how to get the image to display on my website, which was disappointing.
+
 
   
