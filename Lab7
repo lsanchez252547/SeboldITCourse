@@ -1,0 +1,11 @@
+Executive Summary -- We got to work more with Python in this Unit, which was fun. I wish we had worked more with it throughout the class, because I forgot how it worked. We also created another diagram in Lucidchart.
+
+
+File Compression -- File compression is used to minimize storage space that files take up and to transfer to other computers more quickly
+When I compressed my SVG file it basically cut the size in half. It went from 164 kb to 57.3 kb after zipping. This became smaller than zipping up jpg images because jpg files are already highly compressed.
+
+Python OOP -- The attributes of the shark class are the methods swim and be_awesome. The purpose of the constuctor is to initialize data and should be used to form initializing class objects. A class is a blueprint that creates a pattern, and the objects are an instance of a class, and use the patterns. Initializing an object of the class by setting it equal to the class defines the object as existing within the class.
+
+Object Oriented Concepts -- The instantiated objects of the shark class are swim and be_awesome. The shark objects inherited descriptions of the shark. Inheritance is when classes inherit defined attributes and methods from other classes of the same type. Abstraction is the defining of a real life object with attributes and methods into a class definition, and we brought the shark to life by giving it actions. Encapsulation are the hidden actions inside the methods.
+
+Conclusion -- This was a fun and simple unit.  I was never able to connect to the page titled 'Object Oriented Concepts' from the link in that module. I just kept getting the astronaut, so I hope I did things correctly.
